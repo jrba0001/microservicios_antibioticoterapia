@@ -1,0 +1,13 @@
+{
+  "apps": [{
+      "name": "anbitioticoterapia-servicio",
+      "script": "conversionService.js",
+      "watch": "conversionService.js"
+    },
+    {
+      "name": "client-servicio",
+      "script": "conversionClient.js",
+      "watch": "conversionClient.js"
+    }
+  ]
+}
